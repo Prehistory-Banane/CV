@@ -8,11 +8,11 @@ j'estime en avoir fait le tour et j'ai décidé de m'attaquer à un nouveau déf
 devenir **Technicien Supérieur Système et Réseaux**_
 ---
 ## Formation
->09/2024 - 02/2025      Formation TSSR
+09/2024 - 02/2025      Formation TSSR
 **Wild code school**
->09/2010 – 07/2013      Licence Lettres Modernes
+09/2010 – 07/2013      Licence Lettres Modernes
 **Université Lyon 2**
->09/2009 – 07/2010      Classe Préparatoire Littéraire aux Grandes Ecoles
+09/2009 – 07/2010      Classe Préparatoire Littéraire aux Grandes Ecoles
 **Lycée Edouard Herriot** 
 ---
 ## Expérience professionnelle
